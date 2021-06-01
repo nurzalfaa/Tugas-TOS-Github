@@ -1,8 +1,10 @@
 // Membuat Permainan Sederhana (Mainan Suit Tangan)
+
 var tanya = true;
 while ( tanya ) {
 // menagkap pilihan player
 var p = prompt('Silahkan Dipilih : Gunting, Batu, Kertas');
+
 
 // menangkap pilihan computer
 // membangkitkan bilangan random
@@ -15,6 +17,7 @@ if( comp < 0.34 ) {
 } else {
 	comp = 'Batu';
 }
+
 
 var hasil = '';
 // menentukan  rules

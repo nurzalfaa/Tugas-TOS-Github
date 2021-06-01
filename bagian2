@@ -2,7 +2,7 @@ var item = prompt('Masukkan Nama Makanan/Minuman \n(cth: kentang, ikan, air, piz
 
 switch(item)
 {
-	case 'kentang' :
+	case 'daging' :
 	case 'ikan' : 
 	case 'air' :
 	alert('Makanan/Minuman Sehat');
@@ -12,6 +12,6 @@ switch(item)
 	alert('Makanan/Minuman Tidak Sehat');
 	break;
 	default :
-	alert('Nama Makanan/Makanan Tidak Tersedia Dalam Daftar');
+	alert('Nama Makanan/Minuman Tidak Tersedia Dalam Daftar');
 	break;
 }

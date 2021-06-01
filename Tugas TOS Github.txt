@@ -1,7 +1,7 @@
 var tanya = true;
 while ( tanya ) {
 // menagkap pilihan player
-var p = prompt('Silahkan Dipilih: Gunting, Batu, Kertas');
+var p = prompt('Silahkan Dipilih Sesuai Keinginan Anda: Gunting, Batu, Kertas');
 
 
 // menangkap pilihan computer

@@ -1,3 +1,9 @@
+function changeBackground(color) {
+   document.body.style.background = color;
+}
+
+window.addEventListener("load",function() { changeBackground('pink') });
+
 var tanya = true;
 while ( tanya ) {
 // menagkap pilihan player

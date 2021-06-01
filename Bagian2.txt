@@ -2,7 +2,6 @@ var item = prompt('Masukkan Nama Makanan/Minuman \n(cth: kentang, ikan, air, piz
 
 switch(item)
 {
-	case 'kentang' :
 	case 'ikan' : 
 	case 'air' :
 	alert('Makanan/Minuman Sehat');

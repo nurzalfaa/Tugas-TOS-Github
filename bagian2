@@ -1,10 +1,10 @@
-var item = prompt('Masukkan Nama Makanan/Minuman \n(cth: kentang, ikan, air, pizza, softdrink)');
+var item = prompt('Masukkan Nama Makanan \n(cth: kentang, ikan, air, pizza, softdrink)');
 
 switch(item)
 {
 	case 'susu' :
-	case 'ikan' : 
-	case 'air' :
+	case 'daging' : 
+	case 'cocacola' :
 	alert('Makanan/Minuman Sehat');
 	break;
 	case 'pizza' :

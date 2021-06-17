@@ -1,4 +1,4 @@
-var item = prompt('Masukkan Nama Makanan/Minuman \n(cth: kentang, ikan, air, pizza, softdrink)');
+var item = prompt('Masukkan Nama Makanan \n(cth: kentang, ikan, air, pizza, softdrink)');
 
 switch(item)
 {
